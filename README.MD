@@ -24,7 +24,7 @@ O projeto também demonstra o uso de Git Flow com branches para desenvolvimento,
 ## Back-end
 - Node.js
 - Express
-- Cors
+- CORS
 
 ## Versionamento
 - Git
