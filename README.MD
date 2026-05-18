@@ -44,7 +44,7 @@ inspiredev/
 │   ├── server.js
 │   ├── package.json
 │   ├── package-lock.json
-│   └── node_modules/
+│   
 │
 └── README.md
 ```
@@ -166,6 +166,6 @@ Durante o desenvolvimento deste projeto foram praticados conceitos importantes d
 
 # Desenvolvido por
 
-CamilLa
+Camilla
 
 Projeto desenvolvido para fins acadêmicos.
