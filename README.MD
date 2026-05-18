@@ -67,6 +67,12 @@ Branch utilizada para desenvolvimento da interface gráfica.
 ## backend
 Branch utilizada para desenvolvimento do servidor e API.
 
+## feature/melhoria-readme
+Branch utilizada para melhorias e novas funcionalidades na documentação do projeto.
+
+## hotfix/correcao-readme
+Branch utilizada para correções rápidas no projeto.
+
 ---
 
 # Fluxo Git utilizado
@@ -102,7 +108,7 @@ O Back-end foi desenvolvido utilizando Node.js e Express.
 Funcionalidades:
 - Criação de servidor local
 - Criação de API REST
-- Liberação de comunicação utilizando Cors
+- Liberação de comunicação utilizando CORS
 
 ---
 
