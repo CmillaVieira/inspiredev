@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>InspireDev</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <main class="container">
+    <h1>✨ InspireDev</h1>
+
+    <p class="descricao">
+      Digite seu nome e escolha o tipo de mensagem.
+    </p>
+
+    <input type="text" id="nome" placeholder="Digite seu nome">
+
+    <select id="tipo">
+      <option value="motivacao">Motivação</option>
+      <option value="estudo">Estudo</option>
+      <option value="programacao">Programação</option>
+    </select>
+
+    <button onclick="gerarMensagem()">
+      Gerar mensagem
+    </button>
+
+    <div class="resultado">
+      <p id="mensagem"></p>
+    </div>
+
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
