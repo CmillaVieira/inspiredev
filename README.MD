@@ -10,6 +10,8 @@ O objetivo deste projeto é desenvolver uma aplicação Full Stack simples utili
 
 O sistema foi desenvolvido de forma separada, utilizando branches diferentes no Git, simulando um ambiente real de trabalho em equipe.
 
+O projeto também demonstra o uso de Git Flow com branches para desenvolvimento, integração e correções.
+
 ---
 
 # Tecnologias utilizadas
